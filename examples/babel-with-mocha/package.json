@@ -1,0 +1,15 @@
+{
+  "name": "babel-with-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --compilers js:babel-core/register"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.6.4",
+    "mocha": "^2.4.5"
+  }
+}
