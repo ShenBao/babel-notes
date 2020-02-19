@@ -1,9 +1,12 @@
-# Babel
+# Babel Notes
 
-示例介绍：
+Babel 学习笔记
 
-1. babel-with-cli
-2. babel-with-gulp
-3. babel-with-browser
-4. babel-with-webpack
-5. babel-with-mocha
+
+
+
+## More links
+
+- [GitHub Home](https://github.com/ShenBao)
+- [Blog Home](https://shenbao.github.io)
+- [About Me](https://shenbao.github.io/about/)
