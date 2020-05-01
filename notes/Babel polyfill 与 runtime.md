@@ -1,7 +1,4 @@
-# babel
-
-- [https://babeljs.io/](https://babeljs.io/)
-- [https://www.babeljs.cn/](https://www.babeljs.cn/)
+# Babel polyfill 与 runtime
 
 ## 使用
 
@@ -12,6 +9,7 @@
 
 ```bash
 npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/plugin-transform-runtime
+
 npm install --save @babel/polyfill @babel/runtime
 ```
 
@@ -31,7 +29,7 @@ npm install --save @babel/polyfill @babel/runtime
 ```
 
 ```bash
-npx bable src/index.js
+npx babel src/index.js
 ```
 
 presets: 可以作为 Babel 插件的组合，甚至可以作为可以共享的 options 配置
@@ -102,8 +100,3 @@ babel-polyfill 的问题
     ]
 }
 ```
-
-## 其他
-
-- "transform-decorators-legacy", // 装饰器
-- "transform-class-properties" // class

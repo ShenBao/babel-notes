@@ -1,0 +1,24 @@
+{
+  "name": "babel-notes",
+  "version": "1.0.0",
+  "description": "Babel 学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/generate.README.md.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShenBao/babel-notes.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "ShenBao",
+    "email": "shenbaoone@gmail.com",
+    "url": "https://github.com/ShenBao"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShenBao/babel-notes/issues"
+  },
+  "homepage": "https://github.com/ShenBao/babel-notes#readme"
+}
